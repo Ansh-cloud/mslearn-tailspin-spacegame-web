@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/vermaanshul2020/Space%20Game%20-%20web%20-%20Workflow/_apis/build/status/Ansh-cloud.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/vermaanshul2020/Space%20Game%20-%20web%20-%20Workflow/_build/latest?definitionId=7&branchName=master)
 
 # Contributing
 
