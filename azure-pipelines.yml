@@ -46,7 +46,7 @@ trigger:
       projects: '**/*.csproj'
   
   - task: DotNetCoreCLI@2
-    displayName: 'Run unit tests - $(buildConfiguration)'
+    displayName: 'Run unittests - $(buildConfiguration)'
     inputs:
       command: 'test'
       arguments: '--no-build --configuration $(buildConfiguration)'
